@@ -4,7 +4,7 @@
 
 # Requirements:
 
-No external libraries required for install.
+Pygame - "pip install pygame"
 
 # Execution:
 

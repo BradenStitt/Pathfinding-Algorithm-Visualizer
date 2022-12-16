@@ -1,6 +1,6 @@
 # Pathfinding-Visualizer
 
-### Implemented Dijkstra’s and A\* Search Algorithm in Python to find the shortest route between two cells in a grid and visualized their workflow using a 2D graphics module called Pygame
+### Implemented Dijkstra’s Search Algorithm in Python to find the shortest route between two cells in a grid and visualized their workflow using a 2D graphics module called Pygame
 
 # Requirements:
 
